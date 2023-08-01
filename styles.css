@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+p {
+	border-style: solid
+}
+
 #yellow {
 	background:yellow;
 	border-width: 1px;
